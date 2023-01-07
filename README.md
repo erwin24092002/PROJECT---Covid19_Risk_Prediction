@@ -1,5 +1,5 @@
-# PROJECT---Covid19_Risk_Prediction
-##Introduction
+# Covid19 Risk Prediction
+## ntroduction
 Bệnh vi-rút corona (Covid-19) là một bệnh truyền nhiễm gây ra bởi một loại vi-rút corona mới được phát hiện. Hầu hết những người bị nhiễm vi-rút Covid-19 đều phát triển bệnh hô hấp từ nhẹ đến trung bình và hồi phục mà không cần điều trị đặc hiệu. Người lớn tuổi và những người mắc các bệnh nền như bệnh tim mạch, tiểu đường, bệnh hô hấp mãn tính và ung thư có nhiều khả năng phát triển bệnh nặng hơn.
 
 Một trong những vấn đề chính mà các nhà cung cấp dịch vụ chăm sóc sức khỏe phải đối mặt trong suốt đại dịch là thiếu nguồn lực y tế và kế hoạch phù hợp để phân bổ các nguồn lực đó một cách hiệu quả. Trong những thời điểm khó khăn này, việc có thể dự đoán những nguồn lực mà một cá nhân có thể cần khi họ xét nghiệm dương tính hoặc thậm chí trước khi họ xét nghiệm dương tính sẽ giúp các cơ quan chức năng lên lịch các nguồn lực cần thiết để cứu sống bệnh nhân. 
