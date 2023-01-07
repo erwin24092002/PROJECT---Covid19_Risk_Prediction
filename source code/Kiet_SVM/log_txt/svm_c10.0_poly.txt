@@ -1,0 +1,48 @@
+
+========= Sth: 1 - C=10.0 - kernel='poly' ==========
+Time to train: 2160.6170535087585s
+Number of true predicted: 90800/100000
+Accuracy of C=10.0 and kernel='poly': 0.908
+Precision of C=10.0 and kernel='poly': 0.258240705251054
+recall of C=10.0 and kernel='poly' with average='None': [0.91923502 0.64877227]
+recall of C=10.0 and kernel='poly' with average='binary': 0.6487722676937892
+recall of C=10.0 and kernel='poly' with average='micro': 0.908
+recall of C=10.0 and kernel='poly' with average='macro': 0.7840036452714715
+recall of C=10.0 and kernel='poly' with average='weighted': 0.908
+F1_score of C=10.0 and kernel='poly' with average='None': [0.95038024 0.36943112]
+F1_score of C=10.0 and kernel='poly' with average='binary': 0.36943111720356403
+F1_score of C=10.0 and kernel='poly' with average='micro': 0.908
+F1_score of C=10.0 and kernel='poly' with average='macro': 0.6599056777970789
+F1_score of C=10.0 and kernel='poly' with average='weighted': 0.9262476118964846
+
+========= Sth: 2 - C=10.0 - kernel='poly' ==========
+Time to train: 2118.278724193573s
+Number of true predicted: 90722/100000
+Accuracy of C=10.0 and kernel='poly': 0.90722
+Precision of C=10.0 and kernel='poly': 0.26357902664030874
+recall of C=10.0 and kernel='poly' with average='None': [0.91829338 0.65804935]
+recall of C=10.0 and kernel='poly' with average='binary': 0.6580493537015276
+recall of C=10.0 and kernel='poly' with average='micro': 0.90722
+recall of C=10.0 and kernel='poly' with average='macro': 0.7881713685840136
+recall of C=10.0 and kernel='poly' with average='weighted': 0.90722
+F1_score of C=10.0 and kernel='poly' with average='None': [0.9498817  0.37639468]
+F1_score of C=10.0 and kernel='poly' with average='binary': 0.37639467670385807
+F1_score of C=10.0 and kernel='poly' with average='micro': 0.90722
+F1_score of C=10.0 and kernel='poly' with average='macro': 0.6631381881698869
+F1_score of C=10.0 and kernel='poly' with average='weighted': 0.9254798268101566
+
+========= Sth: 3 - C=10.0 - kernel='poly' ==========
+Time to train: 1989.4157729148865s
+Number of true predicted: 90806/100000
+Accuracy of C=10.0 and kernel='poly': 0.90806
+Precision of C=10.0 and kernel='poly': 0.2623552668737645
+recall of C=10.0 and kernel='poly' with average='None': [0.91825153 0.67237636]
+recall of C=10.0 and kernel='poly' with average='binary': 0.6723763570566949
+recall of C=10.0 and kernel='poly' with average='micro': 0.90806
+recall of C=10.0 and kernel='poly' with average='macro': 0.7953139413993505
+recall of C=10.0 and kernel='poly' with average='weighted': 0.90806
+F1_score of C=10.0 and kernel='poly' with average='None': [0.95036495 0.3774377 ]
+F1_score of C=10.0 and kernel='poly' with average='binary': 0.37743770314192854
+F1_score of C=10.0 and kernel='poly' with average='micro': 0.90806
+F1_score of C=10.0 and kernel='poly' with average='macro': 0.6639013254415698
+F1_score of C=10.0 and kernel='poly' with average='weighted': 0.9266171134525708

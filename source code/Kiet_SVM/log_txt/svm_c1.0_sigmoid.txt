@@ -1,0 +1,48 @@
+
+========= Sth: 1 - C=1.0 - kernel='sigmoid' ==========
+Time to train: 1898.6779353618622s
+Number of true predicted: 80108/100000
+Accuracy of C=1.0 and kernel='sigmoid': 0.80108
+Precision of C=1.0 and kernel='sigmoid': 0.044940590264469144
+recall of C=1.0 and kernel='sigmoid' with average='None': [0.88876861 0.04512219]
+recall of C=1.0 and kernel='sigmoid' with average='binary': 0.04512218587646719
+recall of C=1.0 and kernel='sigmoid' with average='micro': 0.80108
+recall of C=1.0 and kernel='sigmoid' with average='macro': 0.4669453975606919
+recall of C=1.0 and kernel='sigmoid' with average='weighted': 0.80108
+F1_score of C=1.0 and kernel='sigmoid' with average='None': [0.88897695 0.0450312 ]
+F1_score of C=1.0 and kernel='sigmoid' with average='binary': 0.04503120499279885
+F1_score of C=1.0 and kernel='sigmoid' with average='micro': 0.80108
+F1_score of C=1.0 and kernel='sigmoid' with average='macro': 0.4670040771294295
+F1_score of C=1.0 and kernel='sigmoid' with average='weighted': 0.8012572286062973
+
+========= Sth: 2 - C=1.0 - kernel='sigmoid' ==========
+Time to train: 1441.3006484508514s
+Number of true predicted: 80027/100000
+Accuracy of C=1.0 and kernel='sigmoid': 0.80027
+Precision of C=1.0 and kernel='sigmoid': 0.04311399792902194
+recall of C=1.0 and kernel='sigmoid' with average='None': [0.88672075 0.04461329]
+recall of C=1.0 and kernel='sigmoid' with average='binary': 0.04461328657705046
+recall of C=1.0 and kernel='sigmoid' with average='micro': 0.80027
+recall of C=1.0 and kernel='sigmoid' with average='macro': 0.46566701951158446
+recall of C=1.0 and kernel='sigmoid' with average='weighted': 0.80027
+F1_score of C=1.0 and kernel='sigmoid' with average='None': [0.88848814 0.04385083]
+F1_score of C=1.0 and kernel='sigmoid' with average='binary': 0.0438508305806884
+F1_score of C=1.0 and kernel='sigmoid' with average='micro': 0.80027
+F1_score of C=1.0 and kernel='sigmoid' with average='macro': 0.46616948740205144
+F1_score of C=1.0 and kernel='sigmoid' with average='weighted': 0.8017776776048522
+
+========= Sth: 3 - C=1.0 - kernel='sigmoid' ==========
+Time to train: 853.5934295654297s
+Number of true predicted: 80020/100000
+Accuracy of C=1.0 and kernel='sigmoid': 0.8002
+Precision of C=1.0 and kernel='sigmoid': 0.04509084062882425
+recall of C=1.0 and kernel='sigmoid' with average='None': [0.88689301 0.04643723]
+recall of C=1.0 and kernel='sigmoid' with average='binary': 0.04643722733882695
+recall of C=1.0 and kernel='sigmoid' with average='micro': 0.8002
+recall of C=1.0 and kernel='sigmoid' with average='macro': 0.4666651208891269
+recall of C=1.0 and kernel='sigmoid' with average='weighted': 0.8002
+F1_score of C=1.0 and kernel='sigmoid' with average='None': [0.88841854 0.04575413]
+F1_score of C=1.0 and kernel='sigmoid' with average='binary': 0.045754131244626996
+F1_score of C=1.0 and kernel='sigmoid' with average='micro': 0.8002000000000001
+F1_score of C=1.0 and kernel='sigmoid' with average='macro': 0.46708633392044496
+F1_score of C=1.0 and kernel='sigmoid' with average='weighted': 0.8014977031842417

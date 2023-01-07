@@ -1,0 +1,48 @@
+
+========= Sth: 1 - C=0.1 - kernel='linear' ==========
+Time to train: 3164.5547490119934s
+Number of true predicted: 89564/100000
+Accuracy of C=0.1 and kernel='linear': 0.89564
+Precision of C=0.1 and kernel='linear': 0.0
+recall of C=0.1 and kernel='linear' with average='None': [0.89564 0.     ]
+recall of C=0.1 and kernel='linear' with average='binary': 0.0
+recall of C=0.1 and kernel='linear' with average='micro': 0.89564
+recall of C=0.1 and kernel='linear' with average='macro': 0.44782
+recall of C=0.1 and kernel='linear' with average='weighted': 0.89564
+F1_score of C=0.1 and kernel='linear' with average='None': [0.94494735 0.        ]
+F1_score of C=0.1 and kernel='linear' with average='binary': 0.0
+F1_score of C=0.1 and kernel='linear' with average='micro': 0.89564
+F1_score of C=0.1 and kernel='linear' with average='macro': 0.47247367643645416
+F1_score of C=0.1 and kernel='linear' with average='weighted': 0.9449473528729084
+
+========= Sth: 2 - C=0.1 - kernel='linear' ==========
+Time to train: 5695.606095075607s
+Number of true predicted: 89377/100000
+Accuracy of C=0.1 and kernel='linear': 0.89377
+Precision of C=0.1 and kernel='linear': 0.0
+recall of C=0.1 and kernel='linear' with average='None': [0.89377 0.     ]
+recall of C=0.1 and kernel='linear' with average='binary': 0.0
+recall of C=0.1 and kernel='linear' with average='micro': 0.89377
+recall of C=0.1 and kernel='linear' with average='macro': 0.446885
+recall of C=0.1 and kernel='linear' with average='weighted': 0.89377
+F1_score of C=0.1 and kernel='linear' with average='None': [0.94390554 0.        ]
+F1_score of C=0.1 and kernel='linear' with average='binary': 0.0
+F1_score of C=0.1 and kernel='linear' with average='micro': 0.89377
+F1_score of C=0.1 and kernel='linear' with average='macro': 0.471952771455879
+F1_score of C=0.1 and kernel='linear' with average='weighted': 0.943905542911758
+
+========= Sth: 3 - C=0.1 - kernel='linear' ==========
+Time to train: 3946.6041011810303s
+Number of true predicted: 89377/100000
+Accuracy of C=0.1 and kernel='linear': 0.89377
+Precision of C=0.1 and kernel='linear': 0.0
+recall of C=0.1 and kernel='linear' with average='None': [0.89377 0.     ]
+recall of C=0.1 and kernel='linear' with average='binary': 0.0
+recall of C=0.1 and kernel='linear' with average='micro': 0.89377
+recall of C=0.1 and kernel='linear' with average='macro': 0.446885
+recall of C=0.1 and kernel='linear' with average='weighted': 0.89377
+F1_score of C=0.1 and kernel='linear' with average='None': [0.94390554 0.        ]
+F1_score of C=0.1 and kernel='linear' with average='binary': 0.0
+F1_score of C=0.1 and kernel='linear' with average='micro': 0.89377
+F1_score of C=0.1 and kernel='linear' with average='macro': 0.471952771455879
+F1_score of C=0.1 and kernel='linear' with average='weighted': 0.943905542911758

@@ -1,0 +1,48 @@
+
+========= Sth: 1 - C=10.0 - kernel='rbf' ==========
+Time to train: 1743.387915611267s
+Number of true predicted: 90942/100000
+Accuracy of C=10.0 and kernel='rbf': 0.90942
+Precision of C=10.0 and kernel='rbf': 0.29120352625527024
+recall of C=10.0 and kernel='rbf' with average='None': [0.92238195 0.64659574]
+recall of C=10.0 and kernel='rbf' with average='binary': 0.646595744680851
+recall of C=10.0 and kernel='rbf' with average='micro': 0.90942
+recall of C=10.0 and kernel='rbf' with average='macro': 0.7844888482061128
+recall of C=10.0 and kernel='rbf' with average='weighted': 0.90942
+F1_score of C=10.0 and kernel='rbf' with average='None': [0.95100182 0.4015592 ]
+F1_score of C=10.0 and kernel='rbf' with average='binary': 0.4015591966173362
+F1_score of C=10.0 and kernel='rbf' with average='micro': 0.90942
+F1_score of C=10.0 and kernel='rbf' with average='macro': 0.6762805070848495
+F1_score of C=10.0 and kernel='rbf' with average='weighted': 0.9251780143684166
+
+========= Sth: 2 - C=10.0 - kernel='rbf' ==========
+Time to train: 2142.3816299438477s
+Number of true predicted: 90844/100000
+Accuracy of C=10.0 and kernel='rbf': 0.90844
+Precision of C=10.0 and kernel='rbf': 0.3011390379365528
+recall of C=10.0 and kernel='rbf' with average='None': [0.92190935 0.64875279]
+recall of C=10.0 and kernel='rbf' with average='binary': 0.6487527884810383
+recall of C=10.0 and kernel='rbf' with average='micro': 0.90844
+recall of C=10.0 and kernel='rbf' with average='macro': 0.7853310692660269
+recall of C=10.0 and kernel='rbf' with average='weighted': 0.90844
+F1_score of C=10.0 and kernel='rbf' with average='None': [0.95035945 0.41134113]
+F1_score of C=10.0 and kernel='rbf' with average='binary': 0.4113411341134114
+F1_score of C=10.0 and kernel='rbf' with average='micro': 0.90844
+F1_score of C=10.0 and kernel='rbf' with average='macro': 0.6808502944565951
+F1_score of C=10.0 and kernel='rbf' with average='weighted': 0.9237804614067341
+
+========= Sth: 3 - C=10.0 - kernel='rbf' ==========
+Time to train: 1923.409993171692s
+Number of true predicted: 90859/100000
+Accuracy of C=10.0 and kernel='rbf': 0.90859
+Precision of C=10.0 and kernel='rbf': 0.2905958768709404
+recall of C=10.0 and kernel='rbf' with average='None': [0.92093004 0.65792839]
+recall of C=10.0 and kernel='rbf' with average='binary': 0.657928388746803
+recall of C=10.0 and kernel='rbf' with average='micro': 0.90859
+recall of C=10.0 and kernel='rbf' with average='macro': 0.7894292130496932
+recall of C=10.0 and kernel='rbf' with average='weighted': 0.90859
+F1_score of C=10.0 and kernel='rbf' with average='None': [0.95050491 0.40313418]
+F1_score of C=10.0 and kernel='rbf' with average='binary': 0.40313418217433883
+F1_score of C=10.0 and kernel='rbf' with average='micro': 0.90859
+F1_score of C=10.0 and kernel='rbf' with average='macro': 0.6768195479732186
+F1_score of C=10.0 and kernel='rbf' with average='weighted': 0.9248222790455315
