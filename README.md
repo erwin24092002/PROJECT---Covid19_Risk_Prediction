@@ -14,5 +14,5 @@ Vì vậy, trong đồ án này chúng tôi tiến hành xây dựng các mô h�
 | 3      | Huỳnh Viết Tuấn Kiệt |[hiimking1509](https://github.com/HiImKing1509)          |20521494@gm.uit.edu.vn   |
 | 4      | Nguyễn Đức Anh Phúc |[PhucNDA](https://github.com/PhucNDA)          |phucnda@gmail.com   |
 | 5      | Nguyễn Văn Toàn |[Toan1601](https://github.com/Toan1601)          |205212028@gm.uit.edu.vn   |
-| 5      | Ngô Ngọc Sương |[NNS-shine](https://github.com/NNS-shine)          |20521852@gm.uit.edu.vn   |
-| 5      | Trần Văn Lực |[VanlucCS](https://github.com/VanlucCS)          |20521587@gm.uit.edu.vn   |
+| 6      | Ngô Ngọc Sương |[NNS-shine](https://github.com/NNS-shine)          |20521852@gm.uit.edu.vn   |
+| 7      | Trần Văn Lực |[VanlucCS](https://github.com/VanlucCS)          |20521587@gm.uit.edu.vn   |
